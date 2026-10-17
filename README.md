@@ -1,3 +1,4 @@
-# Rivo releases
+﻿# Rivo by Rivexo Digital — downloads
 
-Downloads for Rivo — Dynamic Island for Windows. Website: https://www.rivexo.co.in/rivo
+Installers only. No source code here. Website: https://www.rivexo.co.in/rivo
+
